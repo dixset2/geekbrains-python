@@ -74,7 +74,7 @@ b = Suit(1.70)
 print(a)
 print(a.expense)
 print(b.expense)
-#
+# #
 class Cell:
     def __init__(self, cell):
         self.cell = cell
